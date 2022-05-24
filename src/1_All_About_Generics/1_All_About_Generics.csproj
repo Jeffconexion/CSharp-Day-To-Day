@@ -6,8 +6,4 @@
     <RootNamespace>_1_All_About_Generics</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="class\" />
-  </ItemGroup>
-
 </Project>
