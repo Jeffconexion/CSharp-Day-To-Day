@@ -1,0 +1,12 @@
+Como transformar Esquema XML(XSD) em uma Class C#?
+
+1 - Executar xsd.exe
+a) executar cmd como adm
+b) ir até o diretório
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
+
+2 - Rodar
+/c    - geração de uma class
+/l:CS - Na linguagem C#
+/o    - Diretório de saída desse arquivo.
+xsd C:\Users\jeffersonricardo\Downloads\doc.xsd /c /l:CS /o:C:\Users\jeffersonricardo\Downloads
